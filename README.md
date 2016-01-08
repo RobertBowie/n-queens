@@ -3,10 +3,10 @@ This is a project I completed as a student at [Hack Reactor Remote Beta](http://
 
 ## Structure:
 
-The repository consist of 
+The repository consists of:
 
-- backbone app
-- test Spec files.
+- A Backbone app
+- The test Spec files.
 
 ### BoardViewer - backbone
 
