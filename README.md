@@ -24,7 +24,7 @@ The specrunner contains the tests for the BoardViewer, specifically for the foll
 - Board with major diagonal conflicts
 - Board with minor diagonal conflicts
 
-as well as test for the solvers:
+as well as tests for the solvers:
 
 - Finds a valid n-queens solution for n of 0-7
 - Finds the number of valid n-queens solutions for n of 0-8
